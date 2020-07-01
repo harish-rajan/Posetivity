@@ -58,3 +58,9 @@ https://www.tensorflow.org/lite/models/pose_estimation/overview
 https://github.com/tensorflow/examples/tree/master/lite/examples/posenet/ios
 
 https://towardsdatascience.com/pose-estimation-and-matching-with-tensorflow-lite-posenet-model-ea2e9249abbd
+
+Model used:
+
+https://www.tensorflow.org/lite/models/pose_estimation/overview
+
+
