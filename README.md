@@ -5,7 +5,7 @@
 
 ## Overview
 This uses TensorFlow Lite PoseNet and detects the person posture using Pose Estimation model.
-It maintains the same aspact ratio.
+It maintains the same aspect ratio.
 
 
 ### Model used
