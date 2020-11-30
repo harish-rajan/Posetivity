@@ -23,8 +23,7 @@ joints are.
 * CocoaPods (to install, run `sudo gem install cocoapods`)
 
 ## Build and run
-1. Clone the TensorFlow examples GitHub repository to your computer to get the
-demo application.
+1. Clone this GitHub repository to your computer to get the demo application. This is based on TensorFlow examples project provided by Google.
 
     ```
     git clone https://github.com/harish-rajan/Posetivity.git
